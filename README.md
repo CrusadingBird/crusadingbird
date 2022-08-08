@@ -1,8 +1,5 @@
-``` diff
-@@ 42@crusadingbird @@
---------------------
-+ I make things sometimes
-- 14
-! Full time student
+``` csharp
+42@crusadingbird.me
+---------------------
+I make things sometimes
 ```
-
