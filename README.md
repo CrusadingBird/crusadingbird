@@ -1,7 +1,8 @@
 ``` diff
- 42@crusadingbird 
+@@ 42@crusadingbird @@
 --------------------
-+ text in green
-I make things sometimes
++ I make things sometimes
+- 14
+! Full time student
 ```
 
