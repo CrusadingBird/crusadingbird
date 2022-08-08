@@ -1,7 +1,8 @@
 ``` diff
-@@ text in purple @@
-42@crusadingbird.me
+@@ 42@crusadingbird @@
+
 --------------------
 + text in green
 I make things sometimes
+```
 
